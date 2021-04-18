@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "first_name": "Man",
+    "last_name": "Leptoptilos crumeniferus",
+    "email": "bheyfield0@princeton.edu",
+    "gender": "Non-binary",
+    "ip_address": "237.188.16.226"
+  }, {
+    "id": 2,
+    "first_name": "Fish",
+    "last_name": "Dacelo novaeguineae",
+    "email": "trembaud1@indiatimes.com",
+    "gender": "Genderfluid",
+    "ip_address": "16.0.246.199"
+  }, {
+    "id": 3,
+    "first_name": "Tiger",
+    "last_name": "Dasypus novemcinctus",
+    "email": "pplues2@i2i.jp",
+    "gender": "Male",
+    "ip_address": "26.135.0.254"
+  }, {
+    "id": 4,
+    "first_name": "Lemming, collared",
+    "last_name": "Dicrostonyx groenlandicus",
+    "email": "bcavanagh3@netscape.com",
+    "gender": "Polygender",
+    "ip_address": "171.142.87.61"
+  }, {
+    "id": 5,
+    "first_name": "Langur, common",
+    "last_name": "Semnopithecus entellus",
+    "email": "wjahnig4@hatena.ne.jp",
+    "gender": "Polygender",
+    "ip_address": "201.139.132.212"
+  }, {
+    "id": 6,
+    "first_name": "Stork, jabiru",
+    "last_name": "Ephippiorhynchus mycteria",
+    "email": "detheridge5@flickr.com",
+    "gender": "Non-binary",
+    "ip_address": "128.79.21.133"
+  }, {
+    "id": 7,
+    "first_name": "Duck, comb",
+    "last_name": "Sarkidornis melanotos",
+    "email": "jbeattie6@bizjournals.com",
+    "gender": "Male",
+    "ip_address": "122.67.52.95"
+  }, {
+    "id": 8,
+    "first_name": "African jacana",
+    "last_name": "Actophilornis africanus",
+    "email": "hshuttell7@aol.com",
+    "gender": "Bigender",
+    "ip_address": "53.101.170.76"
+  }, {
+    "id": 9,
+    "first_name": "Cuis",
+    "last_name": "Microcavia australis",
+    "email": "lboyd8@comcast.net",
+    "gender": "Agender",
+    "ip_address": "48.125.32.4"
+  }, {
+    "id": 10,
+    "first_name": "Tarantula",
+    "last_name": "Lasiodora parahybana",
+    "email": "gponceford9@wix.com",
+    "gender": "Bigender",
+    "ip_address": "112.107.178.199"
+  }]
